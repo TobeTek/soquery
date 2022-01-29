@@ -1,4 +1,6 @@
-# Hosting your discord.py bot on Heroku
+# Invite the Bot
+Invite Link: https://discord.com/api/oauth2/authorize?client_id=890796078264377365&permissions=328565226560&scope=bot
+## Hosting your discord.py bot on Heroku
 ### What are the prerequisites for this guide?
 You must have an account for Discord [[Link](https://discordapp.com/developers/applications/)], GitHub [[Link](https://github.com/join)] , and Heroku [[Link](https://signup.heroku.com/)].
 
